@@ -1,0 +1,12 @@
+jupyter>=1.1
+jupyterlab-rise>=0.42
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
+numba>=0.59
+cython>=3.0
+line-profiler>=4.1
+rich>=13
+tqdm>=4.66
+django>=4.2
