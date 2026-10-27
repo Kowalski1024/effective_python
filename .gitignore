@@ -102,3 +102,6 @@ ENV/
 
 old/*
 dicella/*
+
+# dane do laboratoriów
+!data/*.log

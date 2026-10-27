@@ -1,0 +1,20 @@
+Jun 29 20:18:40 noether sshd[5805]: Invalid user tester from 218.189.194.200
+Jun 29 20:18:42 noether sshd[5805]: Failed password for invalid user tester from 218.189.194.200 port 52113 ssh2
+Jun 29 20:18:42 noether sshd[5805]: Connection closed by 218.189.194.200 port 52113 [preauth]
+Jun 29 21:00:01 noether CRON[5893]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 29 22:41:07 noether sshd[6012]: Accepted publickey for alice from 10.0.0.5 port 50022 ssh2
+Jun 29 23:05:13 noether sshd[6044]: Invalid user admin from 61.177.172.13
+Jun 29 23:05:15 noether sshd[6044]: Failed password for invalid user admin from 61.177.172.13 port 40312 ssh2
+Jun 30 02:17:55 noether sshd[6230]: Invalid user oracle from 103.79.141.34
+Jun 30 02:17:58 noether sshd[6230]: Failed password for invalid user oracle from 103.79.141.34 port 58816 ssh2
+Jun 30 06:00:01 noether CRON[6401]: (root) CMD (run-parts /etc/cron.daily)
+Jun 30 09:12:44 noether sshd[6588]: Accepted password for bob from 10.0.0.17 port 41188 ssh2
+Jun 30 09:12:44 noether sshd[6588]: pam_unix(sshd:session): session opened for user bob by (uid=0)
+Jun 30 13:47:21 noether sshd[6790]: Failed password for root from 45.227.254.8 port 33122 ssh2
+Jul  1 03:14:07 noether sshd[7102]: Invalid user guest from 5.188.10.176
+Jul  1 03:14:09 noether sshd[7102]: Failed password for invalid user guest from 5.188.10.176 port 47710 ssh2
+Jul  1 08:30:00 noether systemd[1]: Started Daily apt download activities.
+Jul  1 11:02:36 noether sshd[7350]: Invalid user pi from 92.63.197.61
+Jul  1 11:02:38 noether sshd[7350]: Connection closed by 92.63.197.61 port 60120 [preauth]
+Jul  2 19:55:12 noether sshd[7911]: Received disconnect from 10.0.0.5 port 50022:11: disconnected by user
+Jul 12 04:41:50 noether sshd[8820]: Invalid user ubnt from 185.220.101.4
